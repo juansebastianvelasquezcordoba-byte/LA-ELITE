@@ -8,5 +8,7 @@ justificacion teorica breve: Mi bot necesita mucha memoria (10/10) porque debe p
 ## 3. Diagrama de Flujo y Inputs
 <img width="1160" height="729" alt="Captura de pantalla 2026-08-28 121222" src="https://github.com/user-attachments/assets/ce618f51-7ef1-474c-8d07-c98a8763c54a" />
 <img width="1291" height="738" alt="Captura de pantalla 2026-08-28 124247" src="https://github.com/user-attachments/assets/6c0dbc6a-44ed-480f-94c9-597a05f9785f" />
+## 4. Arquitectura de atencion con las reglas logicas definiidas
+Reglas de Atención: 
 
 

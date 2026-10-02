@@ -11,3 +11,8 @@ justificacion teorica breve: Mi bot necesita mucha memoria (10/10) porque debe p
 ## 4. Arquitectura de atencion con las reglas logicas definidas
 Reglas de Atención. Identificación de la intención: primero identificará qué evento deportivo y qué información solicita el usuario, Priorización de datos relevantes: dará mayor atención a los datos directamente relacionados con el evento, como equipos o jugadores, estadísticas, resultados recientes y demás información necesaria para el análisis, Filtrado del ruido: ignorará información que no tenga relación directa con la predicción solicitada, Mensajes extensos: si el mensaje tiene más de 500 palabras, el mecanismo de atención priorizará los sustantivos clave, los datos deportivos relevantes y la última frase, con el objetivo de reducir la carga cognitiva del sistema, Información contradictoria: cuando encuentre datos que se contradigan, los marcará para que el mecanismo de razonamiento pueda analizarlos antes de utilizarlos, Prioridad al objetivo del usuario: la información relacionada directamente con la apuesta o evento solicitado tendrá mayor prioridad que la información secundaria, Conservación de información importante: los datos considerados relevantes serán enviados a la memoria y al módulo de razonamiento para continuar con el análisis.
 
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| :--- | :---: | ---: |
+| Fila 1, Celda 1 | Fila 1, Celda 2 | Fila 1, Celda 3 |
+| Fila 2, Celda 1 | Fila 2, Celda 2 | Fila 2, Celda 3 |
+
